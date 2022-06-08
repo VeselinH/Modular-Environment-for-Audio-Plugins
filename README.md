@@ -5,7 +5,7 @@ Each plugin has an input and output noode for Midi and Audio data.
 
 ### Preview
 
-<img width="900px" src="preview/Preview1.jpg" />
+<img width="900px" src="preview/Preview2.jpg" />
 
 
 
